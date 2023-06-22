@@ -1,0 +1,21 @@
+## Overview
+
+This repository contains the data and code associated with the academic paper titled "The influence of social identity on attitudes toward wildlife".
+
+## Data Description
+
+The data associated with this paper will be shared here upon acceptance of the paper. The dataset will include anonymized survey data
+
+## Repository Structure
+
+Here is a basic overview of the repository structure:
+
+- `/data` : This folder will host all the data files upon acceptance of the paper.
+- `/code` : This folder contains all the code used for data analysis.
+- `/docs` : This folder contains additional documentation, including the data dictionary.
+
+Please note that the actual repository structure might change slightly as the project progresses.
+
+## Usage
+
+Upon release, the data can be downloaded and analyzed using the scripts provided in the `code` directory. [If applicable: The data analysis scripts are written in R and require the following packages: lavaan
